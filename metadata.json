@@ -1,0 +1,6 @@
+{
+  "name": "Tanger Star Voice",
+  "description": "Voice Chat, Play Games, Find More Friends — Global social voice rooms, real-time audio, Ludo, VIP, Agencies, Coins & Diamonds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

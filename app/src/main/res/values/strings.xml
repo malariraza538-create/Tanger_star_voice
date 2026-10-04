@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tanger Star Voice</string>
+    <string name="tagline">Voice Chat, Play Games, Find More Friends</string>
+    <string name="admin_panel_title">Tanger Star Global Owner Admin</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_rooms">Rooms</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_profile">Profile</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-9420979892759161~4631920628</string>
+    <string name="admob_production_ad_unit_id" translatable="false">ca-app-pub-9420979892759161/2005757280</string>
+</resources>
